@@ -1,0 +1,37 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Century Gothic;
+}
+
+body{
+    background-image: url(https://previews.123rf.com/images/sabbracadabra/sabbracadabra1701/sabbracadabra170100026/70250375-mascotas-tema-de-fondo-vector-patr%C3%B3n-con-las-impresiones-de-la-pata-de-los-gatos.jpg);
+}
+
+form{
+    width: 700px;
+    margin: auto;
+    background-color: rgb(18, 50, 156);
+    margin-top: 100px;
+}
+
+input {
+    margin: 12px;
+    padding: 10px;
+    width: 640px;
+    font-size: 18px;
+    border: none;
+    margin-bottom: 5px;
+
+}
+textarea {
+    font-size: 18px;
+    margin: 15px;
+    padding: 8px;
+    min-width: 640px;
+    max-width: 640px;
+    min-height: 100px;
+    max-height: 200px;
+    border: none;
+    margin-bottom: 5px;
+}

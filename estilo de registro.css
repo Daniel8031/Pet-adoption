@@ -1,0 +1,81 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: century gothic;
+	text-align: center;
+}
+body{
+    background-image: url(https://previews.123rf.com/images/sabbracadabra/sabbracadabra1701/sabbracadabra170100026/70250375-mascotas-tema-de-fondo-vector-patr%C3%B3n-con-las-impresiones-de-la-pata-de-los-gatos.jpg);
+}
+
+
+form {
+	padding: 50px 20px;
+	background-color: #ededed;
+	margin: calc(25% + 129px);
+	margin-top: 70px;
+	padding-top: 28px;
+	margin-bottom: 30px
+}
+table {
+    text-align: center;
+}
+h1 {
+	text-align: center;
+	padding: 12px;
+	color: #444
+}
+
+input {
+	width: calc(220% - 20px);
+	padding: 9px;
+	margin: auto;
+	margin-top: 12px;
+	font-size: 16px
+}
+
+input[type='submit']{
+	background-color: #48e;
+	color: #fff;
+	width: calc(100% - 20px);
+	margin: 0 65%;
+	margin-top: 22px;
+	border: none;
+}
+
+
+.ok {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #1e6;
+	color: #fff
+}
+.bad {
+	text-align: center;
+	width: 100%;
+	padding: 12px;
+	background-color: #a22;
+	color: #fff
+}
+
+fieldset{
+	color: #0af04f;
+}
+button {
+    background-color:  #48e;
+	color: #fff;
+	width: calc(30% - 20px);
+	margin: 0 3%;
+	margin-top: 22px;
+	border: none;
+}
+
+input[type='button']{
+	background-color:#48e;
+	color: #fff;
+	width: calc(50% - 20px);
+	margin: 0 3%;
+	margin-top: 22px;
+    border: none;
+}
